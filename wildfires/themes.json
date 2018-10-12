@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Wildfires",
+        "content": [
+            {
+                "name": "Wildfires (S-2 L1C)",
+                "service": "WMS",
+                "url": "https://services.sentinel-hub.com/ogc/wms/b41679d2-fe35-4e9e-b736-a03bb1cf1309",
+                "preselected": true
+            },
+            {
+                "name": "Wildfires (S-2 L2A)",
+                "service": "WMS",
+                "url": "https://services.sentinel-hub.com/ogc/wms/bd278536-3eeb-4706-b279-042d4584b319"
+            },
+            {
+                "name": "Wildfires (S-5P)",
+                "service": "WMS",
+                "url": "https://eocloud.sentinel-hub.com/v1/wms/7a63bd13-6a14-43df-be62-c1d601d78bf1"
+            }
+        ],
+        "pins": [
+            {
+                "pinTitle": "NBR after wildfire",
+                "lat": 32.7335,
+                "lng": -17.0427,
+                "zoom": 12,
+                "preset": "NORMALIZED-BURN-RATIO",
+                "datasource": "Sentinel-2 L1C - wildfires",
+                "time": "2016-08-17",
+                "evalscript": "",
+                "evalscripturl": ""
+              },
+              {
+                "pinTitle": "NBR before wildfire",
+                "lat": 32.7335,
+                "lng": -17.0427,
+                "zoom": 12,
+                "preset": "NORMALIZED-BURN-RATIO",
+                "datasource": "Sentinel-2 L1C - wildfires",
+                "time": "2016-08-07",
+                "evalscript": "",
+                "evalscripturl": ""
+              },
+              {
+                "pinTitle": "Before wildfire",
+                "lat": 32.7335,
+                "lng": -17.0427,
+                "zoom": 12,
+                "preset": "TRUE-COLOR",
+                "datasource": "Sentinel-2 L1C - wildfires",
+                "time": "2016-08-07",
+                "evalscript": "",
+                "evalscripturl": ""
+              },
+              {
+                "pinTitle": "After wildfire",
+                "lat": 32.7335,
+                "lng": -17.0427,
+                "zoom": 12,
+                "preset": "TRUE-COLOR",
+                "datasource": "Sentinel-2 L1C - wildfires",
+                "time": "2016-08-17",
+                "evalscript": "",
+                "evalscripturl": ""
+              }
+            
+          ]
+    }
+]
