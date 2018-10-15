@@ -5,18 +5,18 @@
             {
                 "name": "Wildfires (S-2 L1C)",
                 "service": "WMS",
-                "url": "https://services.sentinel-hub.com/ogc/wms/b41679d2-fe35-4e9e-b736-a03bb1cf1309",
+                "url": "https://services.sentinel-hub.com/ogc/wms/8327f786-27aa-4fb1-be7d-5475fab0b739",
                 "preselected": true
             },
             {
                 "name": "Wildfires (S-2 L2A)",
                 "service": "WMS",
-                "url": "https://services.sentinel-hub.com/ogc/wms/bd278536-3eeb-4706-b279-042d4584b319"
+                "url": "https://services.sentinel-hub.com/ogc/wms/375bc117-6f9c-4006-99af-8fe32a13eea9"
             },
             {
                 "name": "Wildfires (S-5P)",
                 "service": "WMS",
-                "url": "https://eocloud.sentinel-hub.com/v1/wms/7a63bd13-6a14-43df-be62-c1d601d78bf1"
+                "url": "https://eocloud.sentinel-hub.com/v1/wms/bd07ba40-dcfd-441a-a689-fc2b3299d7b6"
             }
         ],
         "pins": [
