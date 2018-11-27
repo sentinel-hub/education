@@ -1,9 +1,9 @@
-Pillow==5.2.0
+Pillow>=5.2.0
 sentinelhub
 datetime
-numpy==1.15.1
-matplotlib===2.0.2 
-requests==2.19.1
-ipywidgets==7.0.0
-ipython==6.1.0
+numpy>=1.15.1
+matplotlib>=2.0.2 
+requests>=2.19.1
+ipywidgets>=7.0.0
+ipython>=6.1.0
 jupyter_contrib_nbextensions
