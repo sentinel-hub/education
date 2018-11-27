@@ -1,9 +1,0 @@
-Pillow==5.2.0
-sentinelhub
-datetime
-numpy==1.15.1
-matplotlib===2.0.2 
-requests==2.20.0
-ipywidgets==7.0.0
-ipython==6.1.0
-jupyter_contrib_nbextensions
