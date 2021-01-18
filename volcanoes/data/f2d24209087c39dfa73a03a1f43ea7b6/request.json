@@ -1,0 +1,8 @@
+{
+    "headers": {
+        "User-Agent": "sentinelhub-py/v3.1.0"
+    },
+    "payload": null,
+    "timestamp": "2021-01-18T12:37:56.987029",
+    "url": "https://services-uswest2.sentinel-hub.com/ogc/wms/cf8091e5-2837-463e-b45d-8dc0b121cad7?SERVICE=wms&WARNINGS=False&MAXCC=70.0&ShowLogo=False&BBOX=37.7%2C14.96%2C37.78%2C15.06&FORMAT=image%2Ftiff%3Bdepth%3D32f&CRS=EPSG%3A4326&TIME=2017-03-02T09%3A42%3A03%2F2017-03-02T09%3A42%3A03&WIDTH=512&HEIGHT=516&LAYERS=BANDS-L8&REQUEST=GetMap&VERSION=1.3.0"
+}
